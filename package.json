@@ -1,6 +1,6 @@
 {
   "name": "robox-first-npm-package",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "First package published by RoBox",
   "main": "index.js",
   "scripts": {
