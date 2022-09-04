@@ -1,0 +1,23 @@
+{
+  "name": "robox-first-npm-package",
+  "version": "1.0.0",
+  "description": "First package published by RoBox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan-baranwal/robox-first-npm-package.git"
+  },
+  "keywords": [
+    "robox",
+    "npm"
+  ],
+  "author": "RoBox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohan-baranwal/robox-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/rohan-baranwal/robox-first-npm-package#readme"
+}
